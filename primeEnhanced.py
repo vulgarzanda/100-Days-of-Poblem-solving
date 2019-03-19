@@ -1,5 +1,7 @@
 import time
 import math
+#Efficient way to print the prime numbers.
+
 def prime_v1(n):
 	if n==1:
 		return False
